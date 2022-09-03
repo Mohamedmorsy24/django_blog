@@ -1,5 +1,5 @@
 # django_blog
-#summer training project ITI
+# summer training project ITI
 # Project Demo to show more details 
 # https://drive.google.com/file/d/1W1ICmi_zGpF36gKM8znZq5Ior-waYUgt/view?usp=sharing
 
