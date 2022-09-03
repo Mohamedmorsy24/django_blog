@@ -1,7 +1,7 @@
 # django_blog
 #summer training project ITI
 
-Team members---->
+# Team members
 
 1- Mohamed Elmorsy Ibrahim      momorsy24@gmail.com
 
