@@ -3,10 +3,9 @@
 
 Team members---->
 
-1- Mohamed Elmorsy Ibrahim      
-momorsy24@gmail.com
+1- Mohamed Elmorsy Ibrahim      momorsy24@gmail.com
 
-#2- Mohamed Magdy Elmahdy 
+2- Mohamed Magdy Elmahdy 
 mohamedelngar062@gmail.com
 
 3- Yasser Ibrahim Elsaeed 
